@@ -1,0 +1,12 @@
+{
+  "name": "hello-react",
+  "version": "0.1",
+  "alias": [""],
+  "env": {
+    "MY_KEY": "this is the value",
+    "SECRET": "@my-secret-name"
+  },
+  "github": {
+    "enabled": true
+  }
+}
